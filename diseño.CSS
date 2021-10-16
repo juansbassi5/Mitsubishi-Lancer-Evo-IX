@@ -159,13 +159,13 @@ nav li a:hover{
 .foto strong{
 	display: flex;
 	margin: 10% 0;
-	color:#e10a11;
+	color:#c30202;
 	font-size: 2.3rem;
 	
 }
 
 .foto p{
-	color: #e10a11;
+	color: #c30202;
 	font-size: 1.5rem;
 	letter-spacing: 0.15rem;
 	margin-top: -1rem;
@@ -195,7 +195,7 @@ nav li a:hover{
 }
 
 .quote .frase{
- 	color: #e10a11;   
+ 	color: #c30202;   
     font-size: 2.3rem;  
 
 }
@@ -221,7 +221,7 @@ footer {
 	padding: 1rem;
 	justify-content: center;
 	align-content: center;
-	background-color: #e10a11;
+	background-color: #c30202;
 
 }
 .pie{
