@@ -125,7 +125,7 @@ nav li a:hover{
 
 .container3 {
 	width: 100%;
-	max-height: 1300px;
+	max-height: 2000px;
 	display: flex;
     flex-direction: column;
     /*align-items: flex-start;*/
@@ -191,11 +191,11 @@ nav li a:hover{
 	align-items: center;
 	border-bottom: 6px solid #fff;
     border-top: 6px solid #fff;
-    width: 60%;
+    width: 80%;
 }
 
 .quote .frase{
-	color: #e10a11;   
+ 	color: #e10a11;   
     font-size: 2.3rem;  
 
 }
@@ -255,11 +255,12 @@ footer {
 	font-size: 2rem;
 	color: #fff;
 }
+
 .estorbo{
-	font-size: 1.4rem;
+    font-size: 1.4rem;
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 700px) {
 	
     /*CONTAINER*/
     nav ul {
