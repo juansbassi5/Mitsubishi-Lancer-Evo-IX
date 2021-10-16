@@ -255,6 +255,9 @@ footer {
 	font-size: 2rem;
 	color: #fff;
 }
+.estorbo{
+	font-size:1.4rem;
+}
 
 @media screen and (max-width: 740px) {
 	
